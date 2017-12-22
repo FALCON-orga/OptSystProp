@@ -1,6 +1,7 @@
 #ifndef _OPTSYSTPROP_H
 #define _OPTSYSTPROP_H
 
+#include <stdint.h>
 
 // ************************************************************************
 // ------------------- DEFINITION OF OPTICAL ELEMENTS ---------------------
